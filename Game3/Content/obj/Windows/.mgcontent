@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Enemy/enemy1.png</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Tower/tower.png</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/background.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Tower/bullet.png</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/grass.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/path.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathD.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathL.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathLD.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathLT.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathR.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathRD.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathRT.jpg</File>
+    <File>C:/Users/MSI/Documents/Visual Studio 2017/Projects/Game3/Game3/Content/Block/pathT.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
